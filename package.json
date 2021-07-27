@@ -1,0 +1,27 @@
+{
+  "name": "Setar-Radio",
+  "version": "1.0.0",
+  "description": "Setar-Radio Station | Server Part",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeTar-Bot/Setar-Radio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeTar-Bot/Setar-Radio/issues"
+  },
+  "homepage": "https://github.com/SeTar-Bot/Setar-Radio#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "@discordjs/opus": "^0.3.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "events": "^3.3.0",
+    "ws": "^7.5.3"
+  }
+}
